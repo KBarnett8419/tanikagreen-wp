@@ -1,0 +1,8 @@
+[09-Feb-2018 20:53:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/tanikagr/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tanikagr/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[09-Feb-2018 20:53:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/tanikagr/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tanikagr/public_html/wp-content/themes/twentyseventeen/search.php on line 13

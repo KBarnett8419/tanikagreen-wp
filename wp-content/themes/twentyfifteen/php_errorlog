@@ -1,0 +1,8 @@
+[09-Feb-2018 20:53:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/tanikagr/public_html/wp-content/themes/twentyfifteen/footer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/tanikagr/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[09-Feb-2018 20:53:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/tanikagr/public_html/wp-content/themes/twentyfifteen/footer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/tanikagr/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
